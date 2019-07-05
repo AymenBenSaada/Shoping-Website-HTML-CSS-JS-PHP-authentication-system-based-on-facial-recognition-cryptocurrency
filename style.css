@@ -1,0 +1,17 @@
+body
+ {
+ 	background-color: black;
+ 	
+ }
+nav{
+	height: 150px;
+
+}
+#search::placeholder
+{
+	color:black!important;
+}
+#search
+{
+border-color: black!important;
+}

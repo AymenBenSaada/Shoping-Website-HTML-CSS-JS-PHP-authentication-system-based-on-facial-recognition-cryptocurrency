@@ -1,0 +1,76 @@
+Configuring : .htaccess
+
+Authentification:
++Data sanitazing
++Session encryption
++password hash
++avoiding sqlinjection
++avoiding loose compare
+(-)facial recognition
+
+Module CRUD Category:
+(+)Add Category and its attribut  DONE
+(+)Update Category Attribut DONE
+(+)Archive Category Attribut
+
+
+
+Module CRUD Product:
++Add product and its attribut 
++Update product Attribut
++Archive product Attribut
++Add Promotion 
++Update Promotion
++ View Product
+
+
+Module user :
++ Add panier (+)
++ Add product to the pannier  (+)
++ Update product amount (+) 
++ Delete Product from the pannier (+)
++ view pannier (+)
++ confirming command via mail (+)
++ update sum of panier after confirming mail(+)
+
+
+Module profiling: Update profile (+)
+
++ displaying products by categories (+ / -)
++view image in profile user (+)
++update product amount in update and add product (+)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ADMIN: 
+
+
+
+
+
+Module Dashboard :
++ View the sells evaluation per month
++ View the sells evaluation for product per user
++ View the sells evaluation for product per day
++ mange users profiles (archive user profile)
++ get product out of stock
+
+
+
+
+
+
++ increase procudt amount when some one archive his command (*)
+
+
++navbar (Category(add,update,view),Product(add,update,view),view Sells(per month),view sells per user, users (view,delete))
+
+
+++++++++++ REGLAGE DASHBOARD ET SES INTERFACES AVANT D ALLER +++++++++++
+
+
+
+ajout livraison a la commande
+plusieur photo pour le produit
+pas de profile aprés login mais save last page before connexion	
